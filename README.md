@@ -9,7 +9,7 @@ Este projeto implementa uma pipeline de ingestão e armazenamento de dados para 
 O projeto foca em extrair dados dos últimos três anos (2023, 2024 e 2025), transformá-los para um formato otimizado e carregá-los em um *Data Lake* governado, garantindo segurança e catalogação.
 
 ### Estrutura do Projeto
-!![Diagrama de Arquitetura do Data Lake na AWS](images/1.png)
+![Diagrama de Arquitetura do Data Lake na AWS](image/1.png)
 
 
 ## Tecnologias e Ferramentas
